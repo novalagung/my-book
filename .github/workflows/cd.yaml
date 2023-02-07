@@ -38,7 +38,7 @@ jobs:
         cd prince-14.2-linux-generic-x86_64
         yes "" | sudo ./install.sh
     - name: build pdf
-      run: npx docusaurus-prince-pdf -u https://my-book.novalagung.com/
+      run: npx docusaurus-prince-pdf -u https://my-book.novalagung.com/intro
     - name: publish ebook
       uses: peaceiris/actions-gh-pages@v3
       with:
