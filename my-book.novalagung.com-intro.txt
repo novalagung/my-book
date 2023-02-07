@@ -1,0 +1,11 @@
+https://my-book.novalagung.com/category/tutorial---basics
+https://my-book.novalagung.com/tutorial-basics/create-a-page
+https://my-book.novalagung.com/tutorial-basics/create-a-document
+https://my-book.novalagung.com/tutorial-basics/create-a-blog-post
+https://my-book.novalagung.com/tutorial-basics/markdown-features
+https://my-book.novalagung.com/tutorial-basics/deploy-your-site
+https://my-book.novalagung.com/tutorial-basics/congratulations
+https://my-book.novalagung.com/category/tutorial---extras
+https://my-book.novalagung.com/tutorial-extras/manage-docs-versions
+https://my-book.novalagung.com/tutorial-extras/translate-your-site
+https://my-book.novalagung.com/
